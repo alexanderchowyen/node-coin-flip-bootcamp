@@ -1,0 +1,25 @@
+body{
+  background-image: url(https://cdn.dribbble.com/users/46390/screenshots/1246164/coins.gif);
+}
+#heads{
+  box-sizing: border-box;
+  margin-left: 15%;
+  color: black;
+  
+}
+#tails{
+  box-sizing: border-box;
+  margin-left: 30%;
+  color:white;
+}
+
+h1{
+  text-align: center;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+  height: 250px;
+  width: 250px;
+}
